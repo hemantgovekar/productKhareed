@@ -1,0 +1,12 @@
+.navbar {
+  background-color: blue;
+}
+
+.nav-item {
+  padding-right: 25px;
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
